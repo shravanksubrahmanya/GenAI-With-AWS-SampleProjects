@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "id": "9330fb97-e555-42fe-9f87-1dc772201d02",
+      "source": 1,
+      "content": [
+        {
+          "type": "text",
+          "text": "What can you do?"
+        }
+      ],
+      "reasoningContent": [],
+      "timestamp": "2025-05-26T10:42:20.316Z",
+      "metadata": {
+        "inferenceConfig": {
+          "temperature": 0.5,
+          "top_p": 0.9,
+          "max_gen_len": 512,
+          "guardrailId": "",
+          "guardrailVersion": "",
+          "latencyOptimized": false,
+          "promptCache": false
+        },
+        "modelId": "meta.llama3-1-70b-instruct-v1:0"
+      },
+      "state": "completed",
+      "config": {
+        "isOptimized": false
+      }
+    },
+    {
+      "id": "8f2933e8-3105-48d1-8e24-0268b030c5a7",
+      "source": 2,
+      "content": [
+        {
+          "type": "text",
+          "text": "\n\nI can be used in a variety of ways, from helping you plan a vacation to creating art. I'm here to assist you in finding the help or information you need. My strengths include answering questions, generating text and images and even just chatting with you."
+        }
+      ],
+      "reasoningContent": [],
+      "timestamp": "2025-05-26T10:42:20.317Z",
+      "metadata": {
+        "inferenceConfig": {
+          "temperature": 0.5,
+          "top_p": 0.9,
+          "max_gen_len": 512,
+          "guardrailId": "",
+          "guardrailVersion": "",
+          "latencyOptimized": false,
+          "promptCache": false
+        },
+        "modelId": "meta.llama3-1-70b-instruct-v1:0",
+        "metrics": {
+          "isLoading": false,
+          "latency": 2092,
+          "inputTokenCount": 19,
+          "outputTokenCount": 54
+        }
+      },
+      "state": "completed"
+    }
+  ]
+]

@@ -1,0 +1,3 @@
+# help me to connect all the services in aws bedrock
+boto3
+awscli
